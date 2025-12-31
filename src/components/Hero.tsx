@@ -10,7 +10,7 @@ export default function Hero() {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-3">
             <img
-              src="/img_9158.jpg"
+              src="/IMG_9281.PNG"
               alt="Dugsi Insurance Services"
               className="h-16 w-auto"
             />

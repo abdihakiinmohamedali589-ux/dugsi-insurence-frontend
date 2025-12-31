@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12 mb-12">
           <div>
             <img
-              src="/img_9158.jpg"
+              src="/IMG_9281.PNG"
               alt="Dugsi Insurance Services"
               className="h-16 w-auto mb-4"
             />
