@@ -60,8 +60,8 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-slate-200 pt-8">
-          <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-            <p className="text-slate-600 text-sm">
+          <div className="flex flex-col items-center space-y-4">
+            <p className="text-slate-600 text-sm text-center">
               &copy; {new Date().getFullYear()} Dugsi Insurance Services. All rights reserved.
             </p>
 
