@@ -80,7 +80,7 @@ export default function Hero() {
           <div className="flex flex-col sm:flex-row gap-6 text-sm justify-center">
             <div className="flex items-center space-x-2">
               <Phone className="h-5 w-5 text-blue-600" />
-              <span className="text-slate-700">+1 (555) 123-4567</span>
+              <span className="text-slate-700">+252771958443</span>
             </div>
             <div className="flex items-center space-x-2">
               <Mail className="h-5 w-5 text-blue-600" />

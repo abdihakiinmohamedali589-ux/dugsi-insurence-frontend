@@ -41,11 +41,15 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-start space-x-3">
                 <Phone className="h-5 w-5 text-blue-600 mt-0.5 flex-shrink-0" />
-                <span className="text-slate-600">+1 (555) 123-4567</span>
+                <span className="text-slate-600">+252771958443</span>
               </li>
               <li className="flex items-start space-x-3">
                 <Mail className="h-5 w-5 text-blue-600 mt-0.5 flex-shrink-0" />
                 <span className="text-slate-600">info@dugsiinsurance.com</span>
+              </li>
+              <li className="flex items-start space-x-3">
+                <Mail className="h-5 w-5 text-blue-600 mt-0.5 flex-shrink-0" />
+                <span className="text-slate-600">admin@dugsiinsurance.com</span>
               </li>
               <li className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 text-blue-600 mt-0.5 flex-shrink-0" />
