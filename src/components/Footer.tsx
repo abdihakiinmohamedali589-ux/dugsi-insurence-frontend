@@ -53,7 +53,7 @@ export default function Footer() {
               </li>
               <li className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 text-blue-600 mt-0.5 flex-shrink-0" />
-                <span className="text-slate-600">123 Business Ave, Suite 100<br />City, State 12345</span>
+                <span className="text-slate-600">Somalia Office: Zope Building KM5, Kenya Office: Westgate Shopping Mall</span>
               </li>
             </ul>
           </div>
